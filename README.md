@@ -1,3 +1,4 @@
-# Pratt MFA Graduate Seminar B
+# Pratt Design Technology
+# Fall 2017
 
-Site: jarrettfuller.com/seminar
+Site: jarrettfuller.com/tech
